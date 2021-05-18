@@ -10,23 +10,27 @@ Work completed for a university module on DSP.
   Stop band rejection	:	min 40 dB
 Sampling frequency fs	:	48kHz
 
-### Selecting the window type
+## Selecting the window type
 
 A hamming window was chosen as it was the most fitting window for the specifications, due to its low ripple and steep transition band. This is shown when comparing different windows:
 
-Triangluar Window:
+### triangular Window:
+The triangular windoew does not meet the 40dB stop band rejection, set within the filter specification
 
 ![Triangle](Images/Triangular%20window.png)
 
-Rectangular Window:
+
+### Rectangular Window:
+The ripples of the rectangular windoew exceed the 40dB stop band rejection, set within the filter specification
 
 ![Rectangle](Images/rectangular%20window.png)
 
-Hamming Window:
+### Hamming Window:
+The Hamming window fits the specifications of the filter
 
 ![Hamming](Images/Hamming%20window.png)
 
-### After selecting the window type, the filters can be constructed
+## After selecting the window type, the filters can be constructed
 
 Creating the lowpass filter:
 
