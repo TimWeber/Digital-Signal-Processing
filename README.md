@@ -16,21 +16,21 @@ A hamming window was chosen as it was the most fitting window for the specificat
 
 Triangluar Window:
 
-![Triangle](Images/Triangular window.png)
+![Triangle](Images/Triangular%20window.png)
 
 Rectangular Window:
 
-![Rectangle](Images/rectangular window.png)
+![Rectangle](Images/rectangular%20window.png)
 
 Hamming Window:
 
-![Hamming](Images/Hamming window.png)
+![Hamming](Images/Hamming%20window.png)
 
 ### After selecting the window type, the filters can be constructed
 
 Creating the lowpass filter:
 
-![Lowpass](Images/Lowpass Filter.png)
+![Lowpass](Images/Lowpass%20Filter.png)
 
 
 Creating the Bandpass filter:
@@ -40,9 +40,9 @@ Creating the Bandpass filter:
 
 Creating the Highpass filter:
 
-![Lowpass](Images/Highpass Filter.png)
+![Lowpass](Images/Highpass%20Filter.png)
 
 
 The combination of the filters:
 
-![Combination](Images/Combination of filters.png)
+![Combination](Images/Combination%20of%20filters.png)
