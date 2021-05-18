@@ -35,7 +35,8 @@ Creating the lowpass filter:
 
 Creating the Bandpass filter:
 
-![Bandpass](Images/Bandpass Filter.png)
+![Bandpass](Images/Bandpass%20Filter.png)
+
 
 Creating the Highpass filter:
 
