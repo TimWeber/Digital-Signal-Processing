@@ -21,7 +21,7 @@ The triangular windoew does not meet the 40dB stop band rejection, set within th
 
 
 ### Rectangular Window:
-The ripples of the rectangular windoew exceed the 40dB stop band rejection, set within the filter specification
+The ripples of the rectangular window exceed the 40dB stop band rejection, set within the filter specification
 
 ![Rectangle](Images/rectangular%20window.png)
 
